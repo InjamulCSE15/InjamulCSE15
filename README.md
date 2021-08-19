@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Frontend technology.**
 
-- 📫 How to reach me [facebook](https://fb.com/https://www.facebook.com/ismamcse)
+- 📫 How to reach me <a href="https://linkedin.com/in/https://www.linkedin.com/in/md-injamul-ismam-9688b8210/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/" height="30" width="40" /></a>
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1T2vOHnnTZN1cjnhnxWgmiLkbhVWcnz4k/view?usp=sharing](https://drive.google.com/file/d/1T2vOHnnTZN1cjnhnxWgmiLkbhVWcnz4k/view?usp=sharing)
 
