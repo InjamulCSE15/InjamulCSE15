@@ -26,9 +26,11 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 #### Hashnode
+<p>
 <a href="https://injamulcse15.hashnode.dev/what-is-dom-manipulation-in-javascript" target="blank"><img align="center" style="border-radius: 10px;" src="https://i.ibb.co/JCkC3DY/Screenshot-8.png" height="250" width="350" /></a> 
 
 <a href="https://injamulcse15.hashnode.dev/javascript-string-methods-at-a-glance-for-beginners" target="blank"><img align="center" style="border-radius: 10px;" src="https://i.ibb.co/yfhPV11/Screenshot-9.png" height="250" width="350" /></a> 
+</p>
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
