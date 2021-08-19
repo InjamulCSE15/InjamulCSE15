@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=injamulcse15&label=Profile%20views&color=0e75b6&style=flat" alt="injamulcse15" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=injamulcse15" alt="injamulcse15" /></a> </p>
+[![Linkedin Badge](https://img.shields.io/badge/-Md%20Injamul-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/md-injamul-ismam-9688b8210/)](https://linkedin.com/in/https://www.linkedin.com/in/md-injamul-ismam-9688b8210/)
 
 - 🔭 I’m currently working on **JavaScript and React Projects**
 
@@ -17,7 +18,7 @@
 
 - 💬 Ask me about **Frontend technology.**
 
-- 📫 How to reach me [![Linkedin Badge](https://img.shields.io/badge/-Vedant%20Khairnar-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/md-injamul-ismam-9688b8210/)](https://linkedin.com/in/https://www.linkedin.com/in/md-injamul-ismam-9688b8210/)
+- 📫 How to reach me [![Linkedin Badge](https://img.shields.io/badge/-Md%20Injamul-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/md-injamul-ismam-9688b8210/)](https://linkedin.com/in/https://www.linkedin.com/in/md-injamul-ismam-9688b8210/)
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1T2vOHnnTZN1cjnhnxWgmiLkbhVWcnz4k/view?usp=sharing](https://drive.google.com/file/d/1T2vOHnnTZN1cjnhnxWgmiLkbhVWcnz4k/view?usp=sharing)
 
