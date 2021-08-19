@@ -9,7 +9,7 @@
 
 <div align="center">
   
-[![Linkedin Badge](https://img.shields.io/badge/-Md%20Injamul%20Alam-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/md-injamul-ismam-9688b8210/)](https://linkedin.com/in/https://www.linkedin.com/in/md-injamul-ismam-9688b8210/) [![GitHub followers](https://img.shields.io/github/followers/InjamulCSE15?label=Follow&style=social)](https://github.com/InjamulCSE15/?tab=follow) [![facebook Badge](https://img.shields.io/badge/-Md%20Injamul%20Alam-blue?style=social&logo=Facebook&logoColor=blue&link=https://www.facebook.com/in/md-injamul-ismam-9688b8210/)](https://fb.com/https://www.facebook.com/ismamcse)
+[![Linkedin Badge](https://img.shields.io/badge/-Md%20Injamul%20Alam-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/md-injamul-ismam-9688b8210/)](https://linkedin.com/in/https://www.linkedin.com/in/md-injamul-ismam-9688b8210/) [![GitHub followers](https://img.shields.io/github/followers/InjamulCSE15?label=Follow&style=social)](https://github.com/InjamulCSE15/?tab=follow) [![facebook Badge](https://img.shields.io/badge/-Md%20Injamul%20Alam-blue?style=social&logo=Facebook&logoColor=blue&link=https://www.facebook.com/in/md-injamul-ismam-9688b8210/)](https://fb.com/https://www.facebook.com/ismamcse) [![Gmail Badge](https://img.shields.io/badge/-Md%20Injamul%20Alam-white?style=social&logo=Gmailk&logoColor=white&link=https://www.mail.google.com/u/)](https://www.mail.google.com/u/) 
 
 </div>
 
@@ -32,7 +32,6 @@
 
 - 💬 Ask me about **Frontend technology.**
 
-- 📫 How to reach me [![Linkedin Badge](https://img.shields.io/badge/-Md%20Injamul%20Alam-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/md-injamul-ismam-9688b8210/)](https://linkedin.com/in/https://www.linkedin.com/in/md-injamul-ismam-9688b8210/)
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1T2vOHnnTZN1cjnhnxWgmiLkbhVWcnz4k/view?usp=sharing](https://drive.google.com/file/d/1T2vOHnnTZN1cjnhnxWgmiLkbhVWcnz4k/view?usp=sharing)
 
