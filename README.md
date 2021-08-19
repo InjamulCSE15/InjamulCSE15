@@ -22,7 +22,7 @@
 
 - 🤝 I’m looking for help with **Redux, React-native**
 
-- 📝 I regularly write articles on [Medium](https://injamul-cse15.medium.com/), [Hashnode]((https://hashnode.com/@InjamulCSE15), [Dev.to](https://dev.to/injamulcse15)
+- 📝 I regularly write articles on [Medium](https://injamul-cse15.medium.com/), [Hashnode](https://hashnode.com/@InjamulCSE15), [Dev.to](https://dev.to/injamulcse15)
 
 - 💬 Ask me about **Frontend technology.**
 
