@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=injamulcse15&label=Profile%20views&color=0e75b6&style=flat" alt="injamulcse15" /> </p>
-
+<br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=injamulcse15" alt="injamulcse15" /></a> </p>
 
 - 🔭 I’m currently working on **JavaScript and React Projects**
@@ -25,6 +25,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+https://injamulcse15.hashnode.dev/what-is-dom-manipulation-in-javascript
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
