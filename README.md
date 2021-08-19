@@ -8,9 +8,9 @@
 <h3 align="left">Connect with me:</h3>
 
 <div align="center">
-[![Linkedin Badge](https://img.shields.io/badge/-Md%20Injamul%20Alam-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/md-injamul-ismam-9688b8210/)](https://linkedin.com/in/https://www.linkedin.com/in/md-injamul-ismam-9688b8210/)
+  
+[![Linkedin Badge](https://img.shields.io/badge/-Md%20Injamul%20Alam-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/md-injamul-ismam-9688b8210/)](https://linkedin.com/in/https://www.linkedin.com/in/md-injamul-ismam-9688b8210/) [![GitHub followers](https://img.shields.io/github/followers/InjamulCSE15?label=Follow&style=social)](https://github.com/InjamulCSE15/?tab=follow)
 
-[![GitHub followers](https://img.shields.io/github/followers/InjamulCSE15?label=Follow&style=social)](https://github.com/InjamulCSE15/?tab=follow)
 </div>
 
 <p>
