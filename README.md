@@ -27,7 +27,7 @@
 <!-- BLOG-POST-LIST:START -->
 #### Hashnode
 <p align="left">
-<a href="https://injamulcse15.hashnode.dev/what-is-dom-manipulation-in-javascript" target="blank"><img align="center" style="border-radius: 10px;" src="https://i.ibb.co/JCkC3DY/Screenshot-8.png" height="250" width="33.33%" /></a> <a href="https://injamulcse15.hashnode.dev/javascript-string-methods-at-a-glance-for-beginners" target="blank"><img align="center" style="border-radius: 10px;" src="https://i.ibb.co/yfhPV11/Screenshot-9.png" height="250" width="33.33%" /></a> <a href="https://injamulcse15.hashnode.dev/what-is-the-difference-between-double-equal-and-triple-equal-in-javascript" target="blank"><img align="center" style="border-radius: 10px;" src="https://i.ibb.co/q7LDXQh/Screenshot-10.png" height="250" width="33.33%" /></a> 
+<a href="https://injamulcse15.hashnode.dev/what-is-dom-manipulation-in-javascript" target="blank"><img align="center" style="border-radius: 10px;" src="https://i.ibb.co/JCkC3DY/Screenshot-8.png" height="250" width="33%" /></a> <a href="https://injamulcse15.hashnode.dev/javascript-string-methods-at-a-glance-for-beginners" target="blank"><img align="center" style="border-radius: 10px;" src="https://i.ibb.co/yfhPV11/Screenshot-9.png" height="250" width="34%" /></a> <a href="https://injamulcse15.hashnode.dev/what-is-the-difference-between-double-equal-and-triple-equal-in-javascript" target="blank"><img align="center" style="border-radius: 10px;" src="https://i.ibb.co/q7LDXQh/Screenshot-10.png" height="250" width="33%" /></a> 
 </p>
 <!-- BLOG-POST-LIST:END -->
 
