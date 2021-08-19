@@ -9,7 +9,7 @@
 
 <div align="center">
   
-[![Linkedin Badge](https://img.shields.io/badge/-Md%20Injamul%20Alam-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/md-injamul-ismam-9688b8210/)](https://linkedin.com/in/https://www.linkedin.com/in/md-injamul-ismam-9688b8210/) [![GitHub followers](https://img.shields.io/github/followers/InjamulCSE15?label=Follow&style=social)](https://github.com/InjamulCSE15/?tab=follow) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://fb.com/https://www.facebook.com/ismamcse) [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white)](https://injamul-cse15.medium.com/) 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/md-injamul-ismam-9688b8210/) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://fb.com/https://www.facebook.com/ismamcse) [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white)](https://injamul-cse15.medium.com/) 
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@InjamulCSE15) [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/injamulcse15) [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/InjamulCSE15)
 </div>
 
@@ -40,6 +40,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
+<hr>
 <p align="left">
 <a href="https://dev.to/injamulcse15" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="injamulcse15" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/md-injamul-ismam-9688b8210/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/" height="30" width="40" /></a>
