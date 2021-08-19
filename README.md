@@ -26,7 +26,7 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 #### Hashnode
-<a href="https://injamulcse15.hashnode.dev/what-is-dom-manipulation-in-javascript"><img align="center" src="https://miro.medium.com/max/1200/1*uE32AcK1bxbpnEc-c96usQ.jpeg" height="30" width="40" /></a>
+<a href="https://injamulcse15.hashnode.dev/what-is-dom-manipulation-in-javascript">What is DOM manipulation in JavaScript?<img align="center" src="https://miro.medium.com/max/1200/1*uE32AcK1bxbpnEc-c96usQ.jpeg" height="150" width="150" /></a>
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
