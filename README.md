@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=injamulcse15&label=Profile%20views&color=0e75b6&style=flat" alt="injamulcse15" /> </p>
 
-<p align="left" style="margin-left: 5%;"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=injamulcse15" alt="injamulcse15" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=injamulcse15" alt="injamulcse15" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 
 <div align="center">
   
-[![Linkedin Badge](https://img.shields.io/badge/-Md%20Injamul%20Alam-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/md-injamul-ismam-9688b8210/)](https://linkedin.com/in/https://www.linkedin.com/in/md-injamul-ismam-9688b8210/) [![GitHub followers](https://img.shields.io/github/followers/InjamulCSE15?label=Follow&style=social)](https://github.com/InjamulCSE15/?tab=follow)
+[![Linkedin Badge](https://img.shields.io/badge/-Md%20Injamul%20Alam-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/md-injamul-ismam-9688b8210/)](https://linkedin.com/in/https://www.linkedin.com/in/md-injamul-ismam-9688b8210/) [![GitHub followers](https://img.shields.io/github/followers/InjamulCSE15?label=Follow&style=social)](https://github.com/InjamulCSE15/?tab=follow) [![facebook Badge](https://img.shields.io/badge/-Md%20Injamul%20Alam-blue?style=social&logo=Facebook&logoColor=blue&link=https://www.facebook.com/in/md-injamul-ismam-9688b8210/)](https://fb.com/https://www.facebook.com/ismamcse)
 
 </div>
 
