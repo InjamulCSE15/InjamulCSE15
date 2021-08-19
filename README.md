@@ -10,8 +10,7 @@
 <div align="center">
   
 [![Linkedin Badge](https://img.shields.io/badge/-Md%20Injamul%20Alam-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/md-injamul-ismam-9688b8210/)](https://linkedin.com/in/https://www.linkedin.com/in/md-injamul-ismam-9688b8210/) [![GitHub followers](https://img.shields.io/github/followers/InjamulCSE15?label=Follow&style=social)](https://github.com/InjamulCSE15/?tab=follow) [![facebook Badge](https://img.shields.io/badge/-Md%20Injamul%20Alam-blue?style=social&logo=Facebook&logoColor=blue&link=https://www.facebook.com/in/md-injamul-ismam-9688b8210/)](https://fb.com/https://www.facebook.com/ismamcse) [![Medium Badge](https://img.shields.io/badge/-Md%20Injamul%20Alam-black?style=social&logo=Medium&logoColor=black&link=https://injamul-cse15.medium.com/)](https://injamul-cse15.medium.com/) 
-[!Hashnode Badge](https://img.shields.io/badge/-Md%20Injamul%20Alam-blue?style=social&logo=HashnodelogoColor=blue&link=https://hashnode.com/@InjamulCSE15)](https://hashnode.com/@InjamulCSE15)
-[!dev Badge](https://img.shields.io/badge/-Md%20Injamul%20Alam-white?style=social&logo=devlogoColor=white&link=https://dev.to/injamulcse15)](https://dev.to/injamulcse15) [![Gmail Badge](https://img.shields.io/badge/-Md%20Injamul%20Alam-red?style=social&logo=gmailk&logoColor=red&link=https://www.gmail.com/)](https://www.gmail.com/) 
+[![Hashnode Badge](https://img.shields.io/badge/-Md%20Injamul%20Alam-blue?style=social&logo=HashnodelogoColor=blue&link=https://hashnode.com/@InjamulCSE15)](https://hashnode.com/@InjamulCSE15) [!dev Badge](https://img.shields.io/badge/-Md%20Injamul%20Alam-white?style=social&logo=devlogoColor=white&link=https://dev.to/injamulcse15)](https://dev.to/injamulcse15) [![Gmail Badge](https://img.shields.io/badge/-Md%20Injamul%20Alam-red?style=social&logo=gmailk&logoColor=red&link=https://www.gmail.com/)](https://www.gmail.com/) 
 
 </div>
 
