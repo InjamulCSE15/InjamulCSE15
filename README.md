@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... JavaScript Project
+- 🔭 I’m currently working on ... JavaScript and React Projects
 - 🌱 I’m currently learning ... JavaScript and React
 - 👯 I’m looking to collaborate on ... JavaScript and React
 - 🤔 I’m looking for help with ... React-Native, Redux.
