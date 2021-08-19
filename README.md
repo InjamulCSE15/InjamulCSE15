@@ -22,12 +22,12 @@
 
 - 🤝 I’m looking for help with **Redux, React-native**
 
-- 📝 I regularly write articles on [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white)](https://injamul-cse15.medium.com/) [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@InjamulCSE15) [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/injamulcse15)
+- 📝 I regularly write articles on [Medium](https://injamul-cse15.medium.com/), [Hashnode]((https://hashnode.com/@InjamulCSE15), [Dev.to](https://dev.to/injamulcse15)
 
 - 💬 Ask me about **Frontend technology.**
 
 
-- 📄 Know about my experiences [![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)](https://drive.google.com/file/d/1T2vOHnnTZN1cjnhnxWgmiLkbhVWcnz4k/view?usp=sharing)
+- 📄 Know about my experiences [OpenCV](https://drive.google.com/file/d/1T2vOHnnTZN1cjnhnxWgmiLkbhVWcnz4k/view?usp=sharing)
 
 - ⚡ Fun fact **Chatting with my friends and learning something new.**
 
