@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Injamul Alam</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate frontend web developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=injamulcse15&label=Profile%20views&color=0e75b6&style=flat" alt="injamulcse15" /> </p>
 
