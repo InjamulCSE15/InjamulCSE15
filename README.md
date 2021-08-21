@@ -48,7 +48,7 @@
 <br>
 <div align="left">
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=injamulcse15&show_icons=true&locale=en&layout=compact" alt="injamulcse15" /></p>
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=injamulcse15&show_icons=true&locale=en" alt="injamulcse15" /></p>
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=injamulcse15&show_icons=true&locale=en" alt="injamulcse15" /></p>
 </div>
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=injamulcse15&" alt="injamulcse15" /></p>
 
