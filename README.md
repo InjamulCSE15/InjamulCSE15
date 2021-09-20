@@ -26,6 +26,7 @@
 
 - 💬 Ask me about **Frontend technology.**
 
+- 📧 Gmail: yeasin.mohammod018@gmail.com
 
 - 📄 Know about my experiences [OpenCV](https://drive.google.com/file/d/1T2vOHnnTZN1cjnhnxWgmiLkbhVWcnz4k/view?usp=sharing)
 
