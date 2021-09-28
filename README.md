@@ -32,7 +32,7 @@
 
 - ⚡ Fun fact **Chatting with my friends and learning something new.**
 
-### Blogs posts
+### Blog posts
 <hr>
 <!-- BLOG-POST-LIST:START -->
 <h4><b>Hashnode</b></h4>
