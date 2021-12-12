@@ -30,7 +30,7 @@
 
 - 📄 Know about my experiences [Check my Resume](https://drive.google.com/file/d/1V1H-oObw_3CEq6Pr6q_hx0yTKBEKyV-d/view?usp=sharing)
 
-- :computer: 
+- :computer: See my [portfolio site](https://my-personal-portfolio-website.netlify.app/)
 
 - ⚡ Fun fact **Chatting with my friends and learning something new.**
 
