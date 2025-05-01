@@ -2,7 +2,8 @@
 
 <h1 align="center">Hi 👋, I'm Injamul Alam</h1>
 <p align="center">🌍 Front-End Developer from Chittagong, Bangladesh <br/>
-  💼 Working at <a href="https://www.neosysworld.com/">Neosysworld</a> | 🎓 B.Sc in CSE | 🚀 Passionate about UI/UX, JavaScript, React & Angular
+  💼 Working at <a href="https://www.neosysworld.com/">Neosysworld</a> <br/>
+  💼 Co-Founder & Chief Instructor at Code Segment | 🎓 B.Sc in CSE | 🚀 Passionate about UI/UX, JavaScript, React & Angular
 </p>
   
 <div align="center">
@@ -29,7 +30,12 @@
 
 ## 🎓 Training & Courses
 
+### Programming Hero
 
+- Light/dark mode toggle
+- Live previews
+- Fullscreen mode
+- Cross platform
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=injamulcse15" alt="injamulcse15" /></a> </p>
 
