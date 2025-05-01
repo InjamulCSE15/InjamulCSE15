@@ -3,7 +3,8 @@
 <h1 align="center">Hi 👋, I'm Injamul Alam</h1>
 <p align="center">🌍 Front-End Developer from Chittagong, Bangladesh <br/>
   💼 Working at <a href="https://www.neosysworld.com/">Neosysworld</a> <br/>
-  💼 Co-Founder & Chief Instructor at Code Segment | 🎓 B.Sc in CSE | 🚀 Passionate about UI/UX, JavaScript, React & Angular
+  💼 Co-Founder & Chief Instructor at Code Segment <br/>
+  🎓 B.Sc in CSE | 🚀 Passionate about UI/UX, JavaScript, React & Angular
 </p>
   
 <div align="center">
