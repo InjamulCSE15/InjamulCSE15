@@ -3,11 +3,11 @@
   💼 Working at <a href="https://www.neosysworld.com/">Neosysworld</a> | 🎓 B.Sc in CSE | 🚀 Passionate about UI/UX, JavaScript, React & Angular
 </p>
 
-<h3 align="left">## 📫 Contact Me</h3>
   
 <div align="center">
 [![Gmail](https://img.shields.io/badge/gmail-%230077B5.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:yeasin.mohammod018@gmail.com/) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/ismamCSE) 
 </div>
+<h3 align="left">## 📫 Contact Me</h3>
 
 <p align="center">
   <a href="mailto:yeasin.mohammod018@gmail.com">Email</a> •
