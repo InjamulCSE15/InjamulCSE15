@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Injamul Alam</h1>
 <p align="center">🌍 Front-End Developer from Chittagong, Bangladesh <br/>
-  💼 Working at 💼 Working at [Neosysworld](https://www.neosysworld.com/)
+  💼 Working at [Neosysworld](https://www.neosysworld.com/)
  | 🎓 B.Sc in CSE | 🚀 Passionate about UI/UX, JavaScript, React & Angular
 </p>
 
