@@ -3,10 +3,10 @@
   💼 Working at <a href="https://www.neosysworld.com/">Neosysworld</a> | 🎓 B.Sc in CSE | 🚀 Passionate about UI/UX, JavaScript, React & Angular
 </p>
 
-<div align="center">
+<h3 align="left">## 📫 Contact Me</h3>
   
-[![Gmail](https://img.shields.io/badge/gmail-%230077B5.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yeasin.mohammod018@gmail.com/) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/ismamCSE) [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white)](https://injamul-cse15.medium.com/) 
-[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@InjamulCSE15) [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/injamulcse15) [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/InjamulCSE15)
+<div align="center">
+[![Gmail](https://img.shields.io/badge/gmail-%230077B5.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yeasin.mohammod018@gmail.com/) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/ismamCSE) [![Portfolio](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=file&logoColor=white)]([https://github.com/InjamulCSE15](https://injamul-s-portfolio.netlify.app/))
 </div>
 
 <p align="center">
