@@ -56,11 +56,20 @@
 ## 📝 Blogs
 I enjoy sharing knowledge about front-end development, JavaScript, and UI/UX through blogs.
 You can find my latest articles here:
-<div align="center" style="display: flex; justify-content: center; gap: 5px;">
-- [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=flat&logo=dev.to&logoColor=white)](https://dev.to/injamulcse15)
-- [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=flat&logo=hashnode&logoColor=white)](https://injamul.hashnode.dev)
-- [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@injamulcse15)
-</div>
+
+<p align="center">
+  <a href="https://dev.to/injamulcse15">
+    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=flat&logo=dev.to&logoColor=white" alt="Dev.to" />
+  </a>
+  <a href="https://hashnode.com/@InjamulCSE15">
+    <img src="https://img.shields.io/badge/Hashnode-2962FF?style=flat&logo=hashnode&logoColor=white" alt="Hashnode" />
+  </a>
+  <a href="https://medium.com/@injamul-cse15">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" alt="Medium" />
+  </a>
+</p>
+
+
 
 > 📌 **Topics I write about:**
 > - JavaScript tips and best practices
