@@ -33,6 +33,11 @@
 ### Programming Hero
 
 - Complete Web Development Course with Jhankar Mahbub (January 2021 – March 2021)
+### Bohubrihi
+
+- HTML5, CSS3, Bootstrap 4 For Web-Development (December 2020 – January 2021)
+- WordPress for Beginners: Build a Website in 1 Day
+- Introduction to JavaScript
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=injamulcse15" alt="injamulcse15" /></a> </p>
 
