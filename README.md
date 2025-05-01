@@ -53,7 +53,9 @@
 - Practical JavaScript & ES6 concepts mostly used in Projects
 
 
-## Blogs
+## 📝 Blogs
+I enjoy sharing knowledge about front-end development, JavaScript, and UI/UX through blogs.
+You can find my latest articles here:
 <div>
 [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?logo=devdotto&logoColor=white)](https://dev.to/injamulcse15) [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?logo=hashnode&logoColor=white)](#) [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?logo=medium&logoColor=white)](#)
 </div>
