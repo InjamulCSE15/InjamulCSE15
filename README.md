@@ -6,7 +6,7 @@
 <h3 align="left">## 📫 Contact Me</h3>
   
 <div align="center">
-[![Gmail](https://img.shields.io/badge/gmail-%230077B5.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yeasin.mohammod018@gmail.com/) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/ismamCSE) 
+[![Gmail](https://img.shields.io/badge/gmail-%230077B5.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:yeasin.mohammod018@gmail.com/) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/ismamCSE) 
 </div>
 
 <p align="center">
