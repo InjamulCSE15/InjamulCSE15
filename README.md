@@ -57,15 +57,13 @@
 
 
 
-### Blog posts
+### Blogs
 <hr>
-<!-- BLOG-POST-LIST:START -->
-<h4><b>Hashnode</b></h4>
-<p align="left">
-<a href="https://injamulcse15.hashnode.dev/what-is-dom-manipulation-in-javascript" target="blank"><img align="center" style="border-radius: 10px;" src="https://i.ibb.co/JCkC3DY/Screenshot-8.png" height="250" width="32%" /></a> <a href="https://injamulcse15.hashnode.dev/javascript-string-methods-at-a-glance-for-beginners" target="blank"><img align="center" style="border-radius: 10px;" src="https://i.ibb.co/yfhPV11/Screenshot-9.png" height="250" width="32%" /></a> <a href="https://injamulcse15.hashnode.dev/what-is-the-difference-between-double-equal-and-triple-equal-in-javascript" target="blank"><img align="center" style="border-radius: 10px;" src="https://i.ibb.co/q7LDXQh/Screenshot-10.png" height="250" width="32%" /></a> 
-</p>
-<!-- BLOG-POST-LIST:END -->
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?logo=devdotto&logoColor=white)](#)
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?logo=hashnode&logoColor=white)](#)
+[![Medium](https://img.shields.io/badge/Medium-%23000000.svg?logo=medium&logoColor=white)](#)
 
+ ## 📊 GitHub Stats
  
 <div>
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=injamulcse15&show_icons=true&locale=en&layout=compact" alt="injamulcse15" /></p>
