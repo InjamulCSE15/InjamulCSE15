@@ -38,38 +38,23 @@
 - HTML5, CSS3, Bootstrap 4 For Web-Development 
 - WordPress for Beginners: Build a Website in 1 Day
 - Introduction to JavaScript
+ 
+### Udemy
+- CSS, Bootstrap, JavaScript, Web Development Course
+- HTML & CSS - Certification Course for Beginners
+- HTML, CSS, & Bootstrap - Certification Course for Beginners
+- CSS3 Ultimate Guide
+- Learn Bootstrap - For Beginners
+- The Complete ReactJs Course - Basics to Advanced
+- JavaScript for Beginners: The Complete Course for Beginners
+- JavaScript & jQuery - Certification Course for Beginners 
+- Learn and Understand JavaScript From Scratch
+- Practical JavaScript & ES6 concepts mostly used in Projects
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=injamulcse15" alt="injamulcse15" /></a> </p>
 
 
-<h3 align="left">Connect with me:</h3>
-<hr>
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-injamul-ismam-9688b8210/) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/ismamCSE) [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white)](https://injamul-cse15.medium.com/) 
-[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@InjamulCSE15) [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/injamulcse15) [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/InjamulCSE15)
-</div>
-
-
-- 🔭 I’m currently working on **JavaScript and React Projects**
-
-- 🌱 I’m currently learning **React**
-
-- 👯 I’m looking to collaborate on **HTML, CSS, JavaScript, React**
-
-- 🤝 I’m looking for help with **Redux, React-native**
-
-- 📝 I regularly write articles on [Medium](https://injamul-cse15.medium.com/), [Hashnode](https://hashnode.com/@InjamulCSE15), [Dev.to](https://dev.to/injamulcse15)
-
-- 💬 Ask me about **Frontend technology.**
-
-- 📧 Gmail: yeasin.mohammod018@gmail.com
-
-- 📄 Know about my experiences [Check my Resume](https://drive.google.com/file/d/1V1H-oObw_3CEq6Pr6q_hx0yTKBEKyV-d/view?usp=sharing)
-
-- :computer: My Personal Portfolio [Check my portfolio](https://injamul-s-portfolio.netlify.app/)
-
-- ⚡ Fun fact **Chatting with my friends and learning something new.**
 
 ### Blog posts
 <hr>
