@@ -26,6 +26,11 @@
 | | [![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)](#) | [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#) | |
 | | | [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#) | |
 
+
+## 🎓 Training & Courses
+
+
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=injamulcse15" alt="injamulcse15" /></a> </p>
 
 
