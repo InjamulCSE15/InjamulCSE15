@@ -71,7 +71,7 @@ You can find my latest articles here:
  
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=injamulcse15" alt="injamulcse15" /></a> </p>
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+<div align="center" style="display: flex; justify-content: center; gap: 5px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=injamulcse15&show_icons=true&locale=en&layout=compact" alt="Top Languages" height="165px"/>
   <img src="https://github-readme-stats.vercel.app/api?username=injamulcse15&show_icons=true&locale=en" alt="GitHub Stats" height="165px"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=injamulcse15&" alt="GitHub Streak" height="165px"/>
