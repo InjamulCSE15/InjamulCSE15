@@ -33,7 +33,7 @@
 
 ### Programming Hero
 
-- <a href="blob:https://web.programming-hero.com/be120d0d-9255-4ad7-ae30-5c31fbd0f0d6">Complete Web Development Course with Jhankar Mahbub</a>
+- <a href="https://web.programming-hero.com/be120d0d-9255-4ad7-ae30-5c31fbd0f0d6">Complete Web Development Course with Jhankar Mahbub</a>
 ### Bohubrihi
 
 - HTML5, CSS3, Bootstrap 4 For Web-Development 
