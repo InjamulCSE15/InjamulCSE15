@@ -3,9 +3,17 @@
   💼 Working at <a href="https://www.neosysworld.com/">Neosysworld</a> | 🎓 B.Sc in CSE | 🚀 Passionate about UI/UX, JavaScript, React & Angular
 </p>
 
+<p align="center">
+  <a href="mailto:yeasin.mohammod018@gmail.com">Email</a> •
+  <a href="https://www.linkedin.com/in/md-injamul-ismam-9688b8210/">LinkedIn</a> •
+  <a href="https://my-personal-portfolio-website.netlify.app/">Portfolio</a>
+</p>
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=injamulcse15&label=Profile%20views&color=0e75b6&style=flat" alt="injamulcse15" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=injamulcse15" alt="injamulcse15" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <hr>
