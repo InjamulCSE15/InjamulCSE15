@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Injamul Alam</h1>
-<h3 align="center">A passionate frontend web developer from Bangladesh</h3>
+<p align="center">🌍 Front-End Developer from Chittagong, Bangladesh <br/>
+  💼 Working @ Neosysworld | 🎓 B.Sc in CSE | 🚀 Passionate about UI/UX, JavaScript, React & Angular
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=injamulcse15&label=Profile%20views&color=0e75b6&style=flat" alt="injamulcse15" /> </p>
 
