@@ -5,15 +5,8 @@
   
 <div align="center">
   
-[![Gmail](https://img.shields.io/badge/gmail-%230077B5.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:yeasin.mohammod018@gmail.com/) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/ismamCSE) [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://injamul-s-portfolio.netlify.app/)
+[![Gmail](https://img.shields.io/badge/gmail-%230077B5.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:yeasin.mohammod018@gmail.com/) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-injamul-ismam-9688b8210/) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/ismamCSE) [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://injamul-s-portfolio.netlify.app/)
 </div>
-
-<p align="center">
-  <a href="mailto:yeasin.mohammod018@gmail.com">Email</a> •
-  <a href="https://www.linkedin.com/in/md-injamul-ismam-9688b8210/">LinkedIn</a> •
-  <a href="https://my-personal-portfolio-website.netlify.app/">Portfolio</a>
-</p>
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=injamulcse15&label=Profile%20views&color=0e75b6&style=flat" alt="injamulcse15" /> </p>
 
