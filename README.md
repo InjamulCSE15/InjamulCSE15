@@ -3,6 +3,12 @@
   💼 Working at <a href="https://www.neosysworld.com/">Neosysworld</a> | 🎓 B.Sc in CSE | 🚀 Passionate about UI/UX, JavaScript, React & Angular
 </p>
 
+<div align="center">
+  
+[![Gmail](https://img.shields.io/badge/gmail-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-injamul-ismam-9688b8210/) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/ismamCSE) [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white)](https://injamul-cse15.medium.com/) 
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@InjamulCSE15) [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/injamulcse15) [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/InjamulCSE15)
+</div>
+
 <p align="center">
   <a href="mailto:yeasin.mohammod018@gmail.com">Email</a> •
   <a href="https://www.linkedin.com/in/md-injamul-ismam-9688b8210/">LinkedIn</a> •
