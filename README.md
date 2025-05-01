@@ -32,10 +32,10 @@
 
 ### Programming Hero
 
-- Complete Web Development Course with Jhankar Mahbub (January 2021 – March 2021)
+- <a href="https://web.programming-hero.com/course-details">Complete Web Development Course with Jhankar Mahbub</a>
 ### Bohubrihi
 
-- HTML5, CSS3, Bootstrap 4 For Web-Development (December 2020 – January 2021)
+- HTML5, CSS3, Bootstrap 4 For Web-Development 
 - WordPress for Beginners: Build a Website in 1 Day
 - Introduction to JavaScript
 
