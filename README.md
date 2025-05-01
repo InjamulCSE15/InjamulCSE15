@@ -6,7 +6,7 @@
 <h3 align="left">## 📫 Contact Me</h3>
   
 <div align="center">
-[![Gmail](https://img.shields.io/badge/gmail-%230077B5.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yeasin.mohammod018@gmail.com/) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/ismamCSE) [![Portfolio](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=file&logoColor=white)]([https://github.com/InjamulCSE15](https://injamul-s-portfolio.netlify.app/))
+[![Gmail](https://img.shields.io/badge/gmail-%230077B5.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yeasin.mohammod018@gmail.com/) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/ismamCSE) [![Portfolio](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=file&logoColor=white)](https://injamul-s-portfolio.netlify.app/)
 </div>
 
 <p align="center">
