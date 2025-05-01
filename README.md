@@ -32,10 +32,7 @@
 
 ### Programming Hero
 
-- Light/dark mode toggle
-- Live previews
-- Fullscreen mode
-- Cross platform
+- Complete Web Development Course with Jhankar Mahbub (January 2021 – March 2021)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=injamulcse15" alt="injamulcse15" /></a> </p>
 
