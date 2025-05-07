@@ -77,9 +77,10 @@ You can find my latest articles here:
 > - CSS tricks & responsive design
 > - Front-end career advice
 
-## 📊 GitHub Stats
- 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=injamulcse15" alt="injamulcse15" /></a> </p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=injamulcse15&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=injamulcse15&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=injamulcse15&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 <div align="center" style="display: flex; justify-content: center; gap: 5px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=injamulcse15&show_icons=true&locale=en&layout=compact" alt="Top Languages" height="165px"/>
