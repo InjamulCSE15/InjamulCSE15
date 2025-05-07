@@ -82,6 +82,18 @@ You can find my latest articles here:
 ![](https://nirzak-streak-stats.vercel.app/?user=injamulcse15&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=injamulcse15&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+
+<img src="https://raw.githubusercontent.com/injamulcse15/injamulcse15/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=injamulcse15&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=injamulcse15&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
 <div align="center" style="display: flex; justify-content: center; gap: 5px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=injamulcse15&show_icons=true&locale=en&layout=compact" alt="Top Languages" height="165px"/>
   <img src="https://github-readme-stats.vercel.app/api?username=injamulcse15&show_icons=true&locale=en" alt="GitHub Stats" height="165px"/>
