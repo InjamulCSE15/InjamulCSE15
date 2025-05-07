@@ -85,7 +85,4 @@ You can find my latest articles here:
 </div>
 
 
-![Pacman Contribution Graph](https://raw.githubusercontent.com/injamulcse15/injamulcse15/output/pacman-contribution-graph.svg)
-
-
 
