@@ -85,11 +85,8 @@ You can find my latest articles here:
 </div>
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/injamulcse15/injamulcse15/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/injamulcse15/injamulcse15/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/injamulcse15/injamulcse15/output/pacman-contribution-graph.svg">
-</picture>
+![Pacman Contribution Graph](https://raw.githubusercontent.com/injamulcse15/injamulcse15/output/pacman-contribution-graph-dark.svg)
+
 
 ###
 
