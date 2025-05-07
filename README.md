@@ -78,9 +78,12 @@ You can find my latest articles here:
 > - Front-end career advice
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=injamulcse15&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=injamulcse15&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=injamulcse15&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=injamulcse15&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=injamulcse15&theme=dark&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=injamulcse15&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
+</div>
+
 
 
 <img src="https://raw.githubusercontent.com/injamulcse15/injamulcse15/output/snake.svg" alt="Snake animation" />
