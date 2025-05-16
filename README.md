@@ -9,7 +9,7 @@
   
 <div align="center">
   
-[![Gmail](https://img.shields.io/badge/gmail-%230077B5.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:yeasin.mohammod018@gmail.com/) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-injamul-ismam-9688b8210/) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/injamulCSE15/) [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://injamul-s-portfolio.netlify.app/)
+[![Gmail](https://img.shields.io/badge/gmail-%230077B5.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:yeasin.mohammod018@gmail.com/) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/injamul-cse15/) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/injamulCSE15/) [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://injamul-s-portfolio.netlify.app/)
 </div>
 
 ## 🚀 Tech Stack
