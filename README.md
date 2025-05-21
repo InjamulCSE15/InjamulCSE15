@@ -77,7 +77,7 @@ You can find my latest articles here:
 > - CSS tricks & responsive design
 > - Front-end career advice
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://github-readme-stats.vercel.app/api?username=injamulcse15&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=injamulcse15&theme=dark&hide_border=false" alt="GitHub Streak" />
