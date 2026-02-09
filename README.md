@@ -92,6 +92,7 @@ You can find my latest articles here:
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=injamulcse15&theme=default"/>
 
 ## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=injamulcse15&theme=radical)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=injamulcse15)
+
 
 
